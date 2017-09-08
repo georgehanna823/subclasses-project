@@ -1,4 +1,4 @@
-# Automation Project
+# Subclasses Project
 
 *Structure for creating a Basic Java Project.*
 
